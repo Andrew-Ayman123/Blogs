@@ -53,7 +53,8 @@ $$ J(A,B) = { |A\cap B| \over |A\cup B| } $$
 A: "Raisa Energy is a leading oil & gas exploration and production company"<br>
 B: "Raisa Energy company is focused on oil & gas exploration"
 
-![Jackard Illustration](./jaccard.png)
+<img src='./jaccard.png' alt='jaccard Illustration'>
+
 $$ J(A,B) = {|\textcolor{EC1C2D}{A\cap B}| \over |\textcolor{25327B}{A}\textcolor{EC1C2D}{\cup} \textcolor{2E75B6}{B}| } = {\textcolor{EC1C2D}{8} \over \textcolor{25327B}{4}+\textcolor{EC1C2D}{8}+\textcolor{2E75B6}{2}} = 57 \% $$
 
 **Snowflake Example:**
@@ -76,7 +77,7 @@ VALUES
 ```
 
 
-```sql 
+```sql
 SELECT 
     TEXT_A,
     TEXT_B,
