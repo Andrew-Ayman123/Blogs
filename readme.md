@@ -2,7 +2,7 @@
 
 ![Look](./look.jpg)
 
-Reading: 5 mins
+Reading: 10 mins
 
 In this article, We will tackle the different approaches we could take with finding if two words/sentences are similar or not, and with what percentage depending on the algorithm which we will use.
 
